@@ -1,0 +1,21 @@
+{
+
+"name":"mio-point-mini-app",
+
+"version":"1.0.0",
+
+"description":"Mio Point Telegram Mini App",
+
+"scripts":{
+
+"start":"serve"
+
+},
+
+"dependencies":{
+
+"serve":"latest"
+
+}
+
+}
